@@ -1,0 +1,4 @@
+Data Types-
+1. Primitive- int, float, double, char, boolean, void.
+2. Derived- array, function, pointer, reference.
+3. User-defined- structure, union, enum, class, typedef.

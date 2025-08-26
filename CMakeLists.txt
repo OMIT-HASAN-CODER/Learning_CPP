@@ -7,4 +7,5 @@ add_executable(Learning_CPP main.cpp
         01_varconst/main.cpp
         02_primitives/data.cpp
         02_primitives/modifier.cpp
-        02_primitives/casting.cpp)
+        02_primitives/casting.cpp
+        02_primitives/myString.cpp)

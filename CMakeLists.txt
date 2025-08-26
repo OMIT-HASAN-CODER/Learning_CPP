@@ -4,4 +4,5 @@ project(Learning_CPP)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(Learning_CPP main.cpp
-        01_varconst/main.cpp)
+        01_varconst/main.cpp
+        02_primitives/data.cpp)

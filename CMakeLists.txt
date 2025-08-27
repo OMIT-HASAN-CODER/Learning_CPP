@@ -12,4 +12,5 @@ add_executable(Learning_CPP main.cpp
         02_primitives/userinput.cpp
         03_operators/arth.cpp
         03_operators/assign.cpp
-        03_operators/relation.cpp)
+        03_operators/relation.cpp
+        03_operators/logical.cpp)

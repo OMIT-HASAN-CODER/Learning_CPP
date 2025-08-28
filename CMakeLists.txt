@@ -13,4 +13,5 @@ add_executable(Learning_CPP main.cpp
         03_operators/arth.cpp
         03_operators/assign.cpp
         03_operators/relation.cpp
-        03_operators/logical.cpp)
+        03_operators/logical.cpp
+        04_conditionals/if.cpp)

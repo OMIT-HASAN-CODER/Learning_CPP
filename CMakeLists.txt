@@ -16,4 +16,5 @@ add_executable(Learning_CPP main.cpp
         03_operators/logical.cpp
         04_conditionals/if.cpp
         04_conditionals/ifElse.cpp
-        04_conditionals/nestedIfElse.cpp)
+        04_conditionals/nestedIfElse.cpp
+        04_conditionals/switchCase.cpp)

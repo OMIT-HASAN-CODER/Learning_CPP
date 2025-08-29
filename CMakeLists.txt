@@ -19,4 +19,5 @@ add_executable(Learning_CPP main.cpp
         04_conditionals/nestedIfElse.cpp
         04_conditionals/switchCase.cpp
         05_loops/whileLoop.cpp
-        05_loops/doWhileLoop.cpp)
+        05_loops/doWhileLoop.cpp
+        05_loops/forLoop.cpp)

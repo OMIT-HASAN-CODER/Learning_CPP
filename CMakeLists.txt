@@ -24,4 +24,5 @@ add_executable(Learning_CPP main.cpp
         05_loops/break.cpp
         05_loops/continue.cpp
         05_loops/nestedLoops.cpp
-        06_function/myFunction.cpp)
+        06_function/myFunction.cpp
+        06_function/myFunctionTwo.cpp)

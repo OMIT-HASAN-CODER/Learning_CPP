@@ -30,4 +30,5 @@ add_executable(Learning_CPP main.cpp
         06_function/myFunctionFour.cpp
         07_array/one.cpp
         07_array/two.cpp
-        07_array/three.cpp)
+        07_array/three.cpp
+        07_array/four.cpp)

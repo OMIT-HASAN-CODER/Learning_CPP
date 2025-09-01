@@ -29,5 +29,11 @@ int main() {
     chaiOne.servings = 2;
     chaiOne.ingredients = {"Water", "Lemon", "Honey", "Tea"};
     chaiOne.displayChaiDetails();
+
+    Chai chaiTwo;
+    chaiTwo.teaName = "Masala Chai";
+    chaiTwo.servings = 4;
+    chaiTwo.ingredients = {"Water", "Milk", "Tea", "Ginger", "Masala"};
+    chaiTwo.displayChaiDetails();
     return 0;
 }

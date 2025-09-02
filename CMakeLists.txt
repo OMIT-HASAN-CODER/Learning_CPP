@@ -33,4 +33,5 @@ add_executable(Learning_CPP main.cpp
         07_array/three.cpp
         07_array/four.cpp
         07_array/five.cpp
-        08_oop/myClass.cpp)
+        08_oop/myClass.cpp
+        08_oop/defaultCons.cpp)

@@ -36,4 +36,5 @@ add_executable(Learning_CPP main.cpp
         08_oop/myClass.cpp
         08_oop/defaultCons.cpp
         08_oop/parametCons.cpp
-        08_oop/copyCons.cpp)
+        08_oop/copyCons.cpp
+        08_oop/getterSetter.cpp)

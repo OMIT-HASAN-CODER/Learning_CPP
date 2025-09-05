@@ -43,4 +43,5 @@ add_executable(Learning_CPP main.cpp
         08_oop/encp.cpp
         08_oop/abstr.cpp
         08_oop/inheritance.cpp
-        09_stl/stl_store.cpp)
+        09_stl/stl_store.cpp
+        09_stl/stl_emp_manage.cpp)

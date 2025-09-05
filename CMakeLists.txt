@@ -41,4 +41,5 @@ add_executable(Learning_CPP main.cpp
         08_oop/delegationCons.cpp
         08_oop/myFriend.cpp
         08_oop/encp.cpp
-        08_oop/abstr.cpp)
+        08_oop/abstr.cpp
+        08_oop/inheritance.cpp)

@@ -45,4 +45,5 @@ add_executable(Learning_CPP main.cpp
         08_oop/inheritance.cpp
         09_stl/stl_store.cpp
         09_stl/stl_emp_manage.cpp
-        09_stl/stl_pair.cpp)
+        09_stl/stl_pair.cpp
+        09_stl/number_theory.cpp)
